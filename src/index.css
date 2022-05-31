@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Baloo 2', cursive;
+    
+}
+
+.intro{
+  color:rgb(190, 119, 11);
+   font-weight: bolder;
+   text-decoration: none;
+   text-transform: capitalize;
+   font-size: 45px;
+   text-align: center;
+
+}
+#roadmap{
+  font-size: 25px;
+  padding-left:5%;
+  padding-right: 5%;
+  text-align:justify;
+
+}
+#list2{
+  list-style-type: square;
+  color: rgb(121, 57, 133);
+}
+#list4{
+  list-style-type:none;
+  color: rgb(33, 163, 77);
+}

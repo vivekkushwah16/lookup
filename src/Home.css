@@ -1,0 +1,25 @@
+.title{
+    color:rgb(28, 137, 156);
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom:15px;
+    
+}
+.line{
+    border:2px solid #fff;
+    width: 75%;
+   
+}
+
+
+#intro-p{
+    font-size: 25px;
+    text-align:justify;
+    
+    padding: auto;
+}
+.image{
+    text-align: right;
+}
